@@ -5,7 +5,7 @@ import { ExternalLink } from './ExternalLink';
 import { MonoText } from './StyledText';
 import { Text, View } from './Themed';
 
-import Colors from '@/constants/Colors';
+import Colors from '@/src/constants/Colors';
 
 export default function EditScreenInfo({ path }: { path: string }) {
   return (
@@ -29,7 +29,7 @@ export default function EditScreenInfo({ path }: { path: string }) {
           style={styles.getStartedText}
           lightColor="rgba(0,0,0,0.8)"
           darkColor="rgba(255,255,255,0.8)">
-          Change any of the text, save the file, and your app will automatically update.
+          Change any of the text, sasjhgssse, and your app will automatically update.
         </Text>
       </View>
 
